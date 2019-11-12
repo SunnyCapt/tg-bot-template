@@ -1,0 +1,6 @@
+.idea
+*__pycache__*
+*local_settings.py
+*venv
+.venv
+trash
